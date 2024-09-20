@@ -138,7 +138,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](L
 - [Pedro Netto (Lider backend)](https://github.com/PedroNetto404);
 - [Arthur Galanti]();
 - [Arthur Prado]()
-- [Leonardo Testa]
+- [Leonardo Testa]()
 ### Frontend
 - [Italo Covas (Lider frontend)](https://github.com/ItaloCovas)
 
